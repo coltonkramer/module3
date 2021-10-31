@@ -6,7 +6,7 @@ I am trying to learn Android Studio by creating an app that changes color values
 ## Description
 You're supposed to be able to click a button and it will change the background color but the app always crashes when I run it
 
-## Description
+## Purpose
 My purpose for creating this app is to make myself a more well rounded programmer
 
 ## Demo
